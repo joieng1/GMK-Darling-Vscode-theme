@@ -1937,8 +1937,8 @@
     "editor.hoverHighlightBackground": "#add6ff26",
     "editor.wordHighlightStrongBackground": "#0e639c40",
     "editor.wordHighlightBackground": "#57575740",
-    "editor.lineHighlightBackground": "#ffffff0A",
-    "editor.lineHighlightBorder": "#F4CDD4",
+    "editor.lineHighlightBackground": "#ffffff0a",
+    "editor.lineHighlightBorder": "#f4cdd4",
     "editorLineNumber.activeForeground": "#bb1e10",
     "editorLink.activeForeground": "#624fba",
     "editorIndentGuide.background": "#b87575",
@@ -2048,7 +2048,7 @@
     "editorMarkerNavigationWarning.background": "#e9a700",
     "editorMarkerNavigationInfo.background": "#75beff",
     "merge.currentHeaderBackground": "#A4E3D6",
-    "merge.currentContentBackground": "#DBF4EF",
+    "merge.currentContentBackground": "#dbf4ef",
     "merge.incomingHeaderBackground": "#A6CFFF",
     "merge.incomingContentBackground": "#DBECFF",
     "merge.commonHeaderBackground": "#BFBFBF",
@@ -2103,4 +2103,3 @@
     "debugExceptionWidget.border": "#ffffff"
   }
 }
-
